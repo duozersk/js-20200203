@@ -1,0 +1,22 @@
+{
+  "name": "js-20200203",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "livereload": "livereload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dosandk/js-20200203.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dosandk/js-20200203/issues"
+  },
+  "homepage": "https://github.com/dosandk/js-20200203#readme",
+  "devDependencies": {
+    "livereload": "^0.9.1"
+  }
+}
